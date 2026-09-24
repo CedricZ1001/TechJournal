@@ -1,0 +1,16 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+~$*
+
+# Local profiling captures; keep article images in Git
+*.utrace
+*.ucache
+*.rdc
+*.wpix
